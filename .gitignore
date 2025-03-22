@@ -1,0 +1,12 @@
+# Ignore virtual environment  
+venv/  
+
+# Ignore model files  
+*.h5  
+*.pkl  
+*.pyd  
+*.dll  
+
+# Ignore cache & logs  
+__pycache__/  
+*.log  
